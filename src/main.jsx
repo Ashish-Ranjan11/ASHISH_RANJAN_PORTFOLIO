@@ -56,7 +56,7 @@ const skills = [
 ];
 
 const projects = [
-  {
+{
     title: "F.O.R.G.E.",
     label: "Flagship AI Forensics System",
     description:
