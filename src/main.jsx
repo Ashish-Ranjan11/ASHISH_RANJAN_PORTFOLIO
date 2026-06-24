@@ -98,7 +98,7 @@ const projects = [
       "Led task distribution, project execution, and development workflow.",
     ],
     stack: ["Python", "Flask", "WebSockets", "PostgreSQL", "System Design"],
-    github: "#",
+    github: "https://github.com/Ashish-Ranjan11/Digi_Darshan",
     live: "#",
   },
 ];
