@@ -8,7 +8,7 @@ const profile = {
   email: "ashishranjan1109@gmail.com",
   github: "https://github.com/Ashish-Ranjan11",
   linkedin: "https://www.linkedin.com/in/ashish-ranjan-77a422371/",
-  resume: "/resume.pdf"
+  resume: "https://ashish-ranjan11.github.io/ASHISH_RANJAN_PORTFOLIO/resume.pdf"
 };
 
 const domains = [
