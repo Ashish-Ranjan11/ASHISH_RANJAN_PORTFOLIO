@@ -1,7 +1,9 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-import "./styles.css";
+import App from "./App";
+import "./index.css";
 
+ HEAD
 const profile = {
   name: "Ashish Ranjan",
   title: "Software Engineering Intern | AI & Digital Forensics Developer",
@@ -418,3 +420,9 @@ function Footer() {
 }
 
 createRoot(document.getElementById("root")).render(<App />);
+
+createRoot(document.getElementById("root")).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+);

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 190" role="img" aria-labelledby="title desc">
+<title id="title">C-DAC</title>
+<desc id="desc">Centre for Development of Advanced Computing institutional wordmark</desc>
+<rect width="620" height="190" rx="24" fill="#ffffff"/>
+<path d="M45 43C105 6 173 10 236 41" fill="none" stroke="#f05a28" stroke-width="12" stroke-linecap="round"/>
+<path d="M52 58C117 28 178 31 230 57" fill="none" stroke="#f5b21b" stroke-width="8" stroke-linecap="round"/>
+<path d="M64 73C116 54 168 55 216 70" fill="none" stroke="#1976b9" stroke-width="7" stroke-linecap="round"/>
+<text x="40" y="135" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="78" fill="#173a70">C-DAC</text>
+<text x="286" y="79" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="24" fill="#20252b">CENTRE FOR DEVELOPMENT OF</text>
+<text x="286" y="111" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="24" fill="#20252b">ADVANCED COMPUTING</text>
+<text x="286" y="145" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#5b6572">Ministry of Electronics &amp; Information Technology</text>
+</svg>
